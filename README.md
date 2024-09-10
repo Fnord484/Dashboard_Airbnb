@@ -92,7 +92,7 @@ Considere o tema “Bloom” do Power BI como identidade visual da empresa (mesm
 - Para executar o projeto localmente faça o dowlonad do arquivo "projeto_PBI_Airbnb.pbix" e execute o arquivo para visualizar a base de dados, tabelas, métricas e os dashbords criados.
 
 ## 5. Top 3 Insights de dados
-- Os bairros de "Upper Wst Side", "Williamsburg" e "Lower East Side" correspondem a 20% do percentual acumulado de contribuição e a cerca de 80% do preço mínimo por noite;
+- Os bairros de "Upper West Side", "Williamsburg" e "Lower East Side" correspondem a 20% do percentual acumulado de contribuição e a cerca de 80% do preço mínimo por noite;
 - A maioria das acomodações cadastradas é de Baixo Padrão, sendo resposnáveis por 65.4% do preço total por noite;
 - Observa-se uma queda sazonal anual no mês de fevereriro na quantidade de acomodações cadastras. Entretanto a tendência em todos os anos é de alta (no período analisado);
     - Sugestão: Realizar uma **análise diganóstica** para entender o porquê, no mês de fevereiro de todos os anos há uma queda no no cadastramento da quantidade de acomodações
